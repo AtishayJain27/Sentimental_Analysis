@@ -82,6 +82,5 @@ The project includes several visualizations:
 - Build a predictive model for review ratings
 
 ## Author
-[Your Name]  
-[Your Contact Information]  
-[Date]
+Atishay Jain  
+
